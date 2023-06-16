@@ -1,0 +1,61 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.login{
+    height: 100vh;
+}
+
+header{
+    position: absolute;
+    width: 566px;
+    height: 18px;
+    left: 922px;
+    top: 35px;
+}
+
+h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+
+}
+
+
+.login-form input{
+    box-sizing: border-box;
+    background: rgba(229, 229, 229, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    margin-top: 20px;
+    width: 579.56px;
+}
+.login-form .Register{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    width: 579.56px;
+    height: 80px;
+    color: #FFFFFF;
+    margin-top: 30px;
+
+    background: #F96D00;
+    border-radius: 15px;    
+}
+
+
+
+.login-form a{
+    color: #F96D00;
+}
+
+.login-form span{
+    color: #FFFFFF;
+    
+}
+
+.login-left{
+    background-color: rgb(12, 12, 12);
+}
+
